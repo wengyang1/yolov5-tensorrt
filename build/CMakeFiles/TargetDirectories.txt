@@ -1,3 +1,0 @@
-/home/wengyang/codes/YOLOv5-Lite-master/cpp_demo/tensorrt/build/CMakeFiles/v5lite_trt.dir
-/home/wengyang/codes/YOLOv5-Lite-master/cpp_demo/tensorrt/build/CMakeFiles/edit_cache.dir
-/home/wengyang/codes/YOLOv5-Lite-master/cpp_demo/tensorrt/build/CMakeFiles/rebuild_cache.dir
