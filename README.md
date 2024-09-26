@@ -9,13 +9,13 @@ python export.py --weights weights/yolov5s.pt --include onnx
 ```text
 https://github.com/lutzroeder/netron
 ```
-![](images/onnx_structure.png)
+![onnx_structure](images/onnx_structure.png)
 
 ```text
 if output has 4 dimensions , we can modify modules/yolo.py
 then output will has only 1-dim
 ```
-![](images/yolo_code.png)
+![yolo_code](images/yolo_code.png)
 
 
 ## .onnx -> .trt
